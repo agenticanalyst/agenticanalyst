@@ -61,22 +61,16 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agenticanalyst&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=agenticanalyst&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
 ### 🔥 Streak Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agenticanalyst&theme=tokyonight&hide_border=true"/>
 </p>
-
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/agenticanalyst" alt="Contribution Calendar" width="100%"/>
-
 ## 🏗️ Featured Projects
-
 <div align="center">
-
 ### 🌟 [Data Analysis Portfolio](https://github.com/agenticanalyst/data-analysis-portfolio) <!-- TODO: Replace with your actual project link and name if different -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=agenticanalyst&repo=data-analysis-portfolio&theme=tokyonight)](https://github.com/agenticanalyst/data-analysis-portfolio) <!-- TODO: Replace REPO_NAME with your actual repository name (e.g., your-first-repo) -->
 
@@ -85,7 +79,6 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 *This repository serves as a collection of my data analysis projects, demonstrating my skills in data cleaning, exploration, visualization, and insight generation using Python, SQL, and Power BI.*
 
 ---
-
 ### 📈 [Your Next Data Science Project](https://github.com/{USERNAME}/your-next-project) <!-- TODO: Add your next project -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=agenticanalyst&repo=your-next-project&theme=tokyonight)](https://github.com/{USERNAME}/your-next-project)
 
@@ -101,13 +94,6 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 - 🥇 **[Achievement Name]**: Platform/Competition <!-- Example: Kaggle Data Science Competition Top 10% -->
 - 📚 **[Course Name]**: [Platform] <!-- Example: Machine Learning Specialization, Coursera -->
 - 
-## 🎯 My Goals
-<!-- TODO: Update with your current year goals, tailored to your career aspirations -->
-- 🚀 Secure a Data Science Internship to gain real-world experience
-- 📚 Deepen my understanding of advanced machine learning models (e.g., NLP, Computer Vision)
-- 🌟 Actively contribute to 2-3 open-source data analytics projects
-- 📝 Publish 5+ technical articles on data science topics
-
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -117,41 +103,6 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your personal portfolio website URL -->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if you use it for professional networking -->
 
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/agenticanalyst?style=social)](https://github.com/agenticanalyst)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if applicable -->
-
-</div>
-
 ---
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/agenticanalyst) <!-- TODO: Replace agenticanalyst with your GitHub username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=agenticanalyst&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
-<!--
 **agenticanalyst/agenticanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
