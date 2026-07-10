@@ -43,51 +43,6 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C9D9B?style=for-the-badge&logo=seaborn&logoColor=white)
 <!-- TODO: Add other data tools and libraries, e.g., Tableau, Scikit-learn, TensorFlow, Keras -->
 
-### ☁️ Cloud & DevOps Fundamentals
-<!-- TODO: Add any cloud platforms (AWS, Azure, GCP) or DevOps tools you're familiar with -->
-<!-- Example: -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-<!-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) -->
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/agenticanalyst">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agenticanalyst&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="agenticanalyst's GitHub Stats" />
-  </a>
-</p>
-
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agenticanalyst&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agenticanalyst&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agenticanalyst&theme=tokyonight&hide_border=true"/>
-</p>
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/agenticanalyst" alt="Contribution Calendar" width="100%"/>
-## 🏗️ Featured Projects
-<div align="center">
-### 🌟 [Data Analysis Portfolio](https://github.com/agenticanalyst/data-analysis-portfolio) <!-- TODO: Replace with your actual project link and name if different -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=agenticanalyst&repo=data-analysis-portfolio&theme=tokyonight)](https://github.com/agenticanalyst/data-analysis-portfolio) <!-- TODO: Replace REPO_NAME with your actual repository name (e.g., your-first-repo) -->
-
-**Tech Stack:** Python • Pandas • Matplotlib • Power BI • SQL
-**Status:** 🚧 In Progress | ⭐ 0+ Stars | 🍴 0+ Forks
-*This repository serves as a collection of my data analysis projects, demonstrating my skills in data cleaning, exploration, visualization, and insight generation using Python, SQL, and Power BI.*
-
----
-### 📈 [Your Next Data Science Project](https://github.com/{USERNAME}/your-next-project) <!-- TODO: Add your next project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=agenticanalyst&repo=your-next-project&theme=tokyonight)](https://github.com/{USERNAME}/your-next-project)
-
-**Tech Stack:** Python • Scikit-learn • TensorFlow • Jupyter
-**Status:** 💡 Idea Stage | ⭐ 0+ Stars | 🍴 0+ Forks
-*A brief description of an exciting project you're planning or currently developing. Highlight its purpose and potential impact.*
-
-</div>
-
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your actual certifications, relevant courses, or notable achievements -->
 - 📜 **[Certification Name]**: Issued by [Organization], Year <!-- Example: IBM Professional Certificate in Data Science -->
