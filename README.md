@@ -34,8 +34,6 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 
 </p>
 
@@ -54,9 +52,9 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your actual certifications, relevant courses, or notable achievements -->
-- 📜 **[Certification Name]**: Issued by [Organization], Year <!-- Example: IBM Professional Certificate in Data Science -->
-- 🥇 **[Achievement Name]**: Platform/Competition <!-- Example: Kaggle Data Science Competition Top 10% -->
-- 📚 **[Course Name]**: [Platform] <!-- Example: Machine Learning Specialization, Coursera -->
+- 📜 **[Data analytics]**: Issued by [Delloite], Year <!-- Example: IBM Professional Certificate in Data Science -->
+- 🥇 **[winner of college comepetion]**: Platform/Competition <!-- Example: Kaggle Data Science Competition Top 10% -->
+- 📚 **[]**: [Platform] <!-- Example: Machine Learning Specialization, Coursera -->
 - 
 ## 🌐 Let's Connect & Collaborate
 
