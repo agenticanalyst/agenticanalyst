@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=agenticanalyst">
-    <img src="https://komarev.com/ghpvc/?username=agenticanalyst&label=Profile%20views&color=00FFFF&style=flat-square" alt="agenticanalyst's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=agenticanalyst&label=Profile%20views&color=00FFFF&style=flat-square" alt="https://www.datascienceportfol.io/saurabhsen937" />
   </a>
 </p>
 
