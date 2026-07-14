@@ -62,7 +62,7 @@ I thrive on learning new concepts, tackling challenging projects, and collaborat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sen-a25768330) <!-- TODO: Add your LinkedIn profile URL -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhsen937@gmail.com) <!-- TODO: Add your professional email address -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your personal portfolio website URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/saurabhsen937) <!-- TODO: Add your personal portfolio website URL -->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if you use it for professional networking -->
 
 ---
